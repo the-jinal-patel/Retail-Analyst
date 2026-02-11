@@ -59,3 +59,8 @@ Data Modeling — Table relationships
 📈 Business Impact
 
 The analysis helps retailers improve pricing, promotions, product selection, and inventory planning using data-driven insights.
+
+
+6. Screenshots / Demos
+   Show What the Dashboard Look Like.
+   Example  (https://github.com/the-jinal-patel/Retail-Analyst/blob/main/Retail.PNG)
